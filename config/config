@@ -1,4 +1,0 @@
-Host colfax
-User u42492
-IdentityFile ~/colfax-access-key-42492
-ProxyCommand ssh -T -i ~/colfax-access-key-42492 guest@cluster.colfaxresearch.com
